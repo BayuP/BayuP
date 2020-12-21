@@ -6,11 +6,13 @@
 
 🌱 I’m currently learning **Distributed System and Machine Learning**
 
-👯 I’m looking to collaborate on any project that can usefull,fun ,and can also improve my tech stack skill 
+👯 I’m looking to collaborate on any project that can usefull, fun ,and can also improve my technical skill 
 
-📫 How to reach me: <a href="https://twitter.com/fx_pabisa" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Bayu Yunianto Pabisa" width="22px" /></a>
+
+<a href="https://twitter.com/fx_pabisa" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Bayu Yunianto Pabisa" width="22px" /></a>
 <a href="https://www.linkedin.com/in/bayu-yunianto-pabisa-914548139/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Bayu Yunianto Pabisa" width="22px" /></a>
 <a href="https://www.instagram.com/bayupabisa/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Bayu Yunianto Pabisa" width="22px" /></a>
+
 
 <!--
 **BayuP/BayuP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
