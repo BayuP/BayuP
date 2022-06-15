@@ -1,4 +1,4 @@
-### Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> , I'm Bayu Yunianto Pabisa
+### Hello there, I'm Bayu Yunianto Pabisa
 
 <!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bayup&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
 
@@ -6,7 +6,7 @@
 
 🔬 I’m interested in **Distributed System and Machine Learning**
 
-👯 I’m looking to collaborate on any project that can usefull, fun ,and also can improve my technical skill 
+👯 I’m looking to collaborate on any project that can impacfull, fun ,and also can improve my technical skill 
 
 🌱 I'm currently learning **Golang**
 
