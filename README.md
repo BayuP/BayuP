@@ -10,9 +10,9 @@
 
 🌱 I'm currently learning **Golang**
 
-<a href="https://twitter.com/fx_pabisa" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Bayu Yunianto Pabisa" width="22px" /></a>
-<a href="https://www.linkedin.com/in/bayu-yunianto-pabisa-914548139/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Bayu Yunianto Pabisa" width="22px" /></a>
-<a href="https://www.instagram.com/bayupabisa/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Bayu Yunianto Pabisa" width="22px" /></a>
+<a href="https://twitter.com/fx_pabisa" target="blank"><img align="left" src="https://img.icons8.com/color/30/000000/twitter--v1.png" alt="Bayu Yunianto Pabisa"/></a>
+<a href="https://www.linkedin.com/in/bayu-yunianto-pabisa-914548139/" target="blank"><img align="left" src="https://img.icons8.com/fluency/30/000000/linkedin.png" alt="Bayu Yunianto Pabisa"/></a>
+<a href="https://www.instagram.com/bayupabisa/" target="blank"><img align="left" src="https://img.icons8.com/fluency/30/000000/instagram-new.png" alt="Bayu Yunianto Pabisa" /></a>
 <br/>
 
 
