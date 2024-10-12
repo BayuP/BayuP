@@ -8,7 +8,7 @@
 
 👯 I’m looking to collaborate on any project that can impacfull, fun ,and also can improve my technical skill 
 
-🌱 I'm currently learning **Golang**
+🌱 I'm currently learning **Golang** and **C++**
 
 <a href="https://twitter.com/fx_pabisa" target="blank"><img align="left" src="https://img.icons8.com/color/30/000000/twitter--v1.png" alt="Bayu Yunianto Pabisa"/></a>
 <a href="https://www.linkedin.com/in/bayu-yunianto-pabisa-914548139/" target="blank"><img align="left" src="https://img.icons8.com/fluency/30/000000/linkedin.png" alt="Bayu Yunianto Pabisa"/></a>
